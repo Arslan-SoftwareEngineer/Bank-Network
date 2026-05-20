@@ -58,6 +58,6 @@ cd Banking-Network-Simulation
 
 ## 👨‍💻 Authors Project
 
-M.Arslan Jaffer - 231991
-Areej Anwaar    - 231969
-Javeria Waqar   - 232059
+Muhammad Arslan Jaffer
+Areej Anwaar
+Javeria Waqar
