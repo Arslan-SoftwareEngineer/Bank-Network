@@ -57,7 +57,7 @@ cd Banking-Network-Simulation
 ## 📁 Directory Structure
 
 Banking-Network-Simulation/
-├── Banking_Network.pkt       # Main Cisco Packet Tracer topology file 
+├── Banking_Network.pkt       # Main Cisco Packet Tracer topology file
 ├── README.md                 # Project documentation
 └── Banking_Network.docx      # Detailed project proposal and testing report
 
