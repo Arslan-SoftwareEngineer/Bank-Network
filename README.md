@@ -54,13 +54,6 @@ cd Banking-Network-Simulation
 5. Open the `Command Prompt` on any end device (e.g., `PC0` or `PC5`) and use the `ping` command (e.g., `ping 192.168.16.5`) to verify end-to-end connectivity.
 6. Use the Simulation tab to view PDU sending events in real-time.
 
-## 📁 Directory Structure
-
-Banking-Network-Simulation/
-├── Banking_Network.pkt       # Main Cisco Packet Tracer topology file
-├── README.md                 # Project documentation
-└── Banking_Network.docx      # Detailed project proposal and testing report
-
 ## 👨‍💻 AuthorsProject
 
 M.Arslan Jaffer - 231991
