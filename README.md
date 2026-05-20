@@ -53,11 +53,3 @@ cd Banking-Network-Simulation
 4. Access the CLI of any router (e.g., `Router3` or `Router0`) to view the EIGRP configurations.
 5. Open the `Command Prompt` on any end device (e.g., `PC0` or `PC5`) and use the `ping` command (e.g., `ping 192.168.16.5`) to verify end-to-end connectivity.
 6. Use the Simulation tab to view PDU sending events in real-time.
-
----
-
-## 👨‍💻 Authors Project
-
-Muhammad Arslan Jaffer
-Areej Anwaar
-Javeria Waqar
