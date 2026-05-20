@@ -54,7 +54,9 @@ cd Banking-Network-Simulation
 5. Open the `Command Prompt` on any end device (e.g., `PC0` or `PC5`) and use the `ping` command (e.g., `ping 192.168.16.5`) to verify end-to-end connectivity.
 6. Use the Simulation tab to view PDU sending events in real-time.
 
-## 👨‍💻 AuthorsProject
+---
+
+## 👨‍💻 Authors Project
 
 M.Arslan Jaffer - 231991
 Proposal By:Areej Anwaar - 231969
